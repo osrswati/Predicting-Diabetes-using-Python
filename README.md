@@ -8,3 +8,4 @@ This project aims to predict the likelihood of diabetes using the Pima Indians D
 
 ## Prediction Website using Streamlit
 
+[Test your data here](https://srswati-predicting-diabetes-using-python.streamlit.app/)
