@@ -7,4 +7,5 @@ The drive behind this project originates from a personal worry regarding diabete
 This project aims to predict the likelihood of diabetes using the Pima Indians Diabetes Database available on Kaggle. The dataset contains various health metrics of Pima Indian women, including pregnancies, glucose level, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. [Link Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## Result Prediction in Streamlit
-![Uploading WhatsApp Image 2024-03-24 at 05.21.26 (1).jpeg…]()
+![Uploading image.png…]()
+
