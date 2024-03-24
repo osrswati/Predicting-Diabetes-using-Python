@@ -6,6 +6,8 @@ import streamlit as st
 diabetes_model = pickle.load(open('diabetes_model.sav', 'rb'))
 
 # Streamlit page
+st.set_page_config(layout="wide")
+
 st.title('Prediction Diabetes') 
 
 # Input fields for each feature
